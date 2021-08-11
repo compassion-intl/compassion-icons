@@ -1,0 +1,213 @@
+@font-face {
+  font-family: 'ci-icons-2021';
+  src:  url('fonts/ci-icons-2021.eot?kayu7u');
+  src:  url('fonts/ci-icons-2021.eot?kayu7u#iefix') format('embedded-opentype'),
+    url('fonts/ci-icons-2021.ttf?kayu7u') format('truetype'),
+    url('fonts/ci-icons-2021.woff?kayu7u') format('woff'),
+    url('fonts/ci-icons-2021.svg?kayu7u#ci-icons-2021') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ci-icon--"], [class*=" ci-icon--"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ci-icons-2021' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ci-icon--tiktok:before {
+  content: "\e900";
+}
+.ci-icon--info-circle-solid:before {
+  content: "\e977";
+}
+.ci-icon--comment:before {
+  content: "\f075";
+}
+.ci-icon--gift-solid:before {
+  content: "\e904";
+}
+.ci-icon--instagram:before {
+  content: "\f16d";
+}
+.ci-icon--pinterest:before {
+  content: "\f0d2";
+}
+.ci-icon--facebook:before {
+  content: "\f09a";
+}
+.ci-icon--snapchat:before {
+  content: "\e907";
+}
+.ci-icon--linkedin:before {
+  content: "\f0e1";
+}
+.ci-icon--twitter:before {
+  content: "\f099";
+}
+.ci-icon--youtube:before {
+  content: "\f167";
+}
+.ci-icon--info-circle:before {
+  content: "\e908";
+}
+.ci-icon--birthday:before {
+  content: "\f1fd";
+}
+.ci-icon--critical-needs:before {
+  content: "\e902";
+}
+.ci-icon--aids:before {
+  content: "\e905";
+}
+.ci-icon--hvc:before {
+  content: "\f132";
+}
+.ci-icon--longest:before {
+  content: "\f017";
+}
+.ci-icon--medical:before {
+  content: "\e909";
+}
+.ci-icon--orphan:before {
+  content: "\f2bd";
+}
+.ci-icon--special:before {
+  content: "\e906";
+}
+.ci-icon--checkbook:before {
+  content: "\e901";
+}
+.ci-icon--gender:before {
+  content: "\e87c";
+}
+.ci-icon--down:before {
+  content: "\f078";
+}
+.ci-icon--left:before {
+  content: "\f053";
+}
+.ci-icon--right:before {
+  content: "\f054";
+}
+.ci-icon--up:before {
+  content: "\f077";
+}
+.ci-icon--menu:before {
+  content: "\f0c9";
+}
+.ci-icon--arrow-down:before {
+  content: "\f0d7";
+}
+.ci-icon--arrow-up:before {
+  content: "\f0d8";
+}
+.ci-icon--cc-amex:before {
+  content: "\f1f3";
+}
+.ci-icon--cc-disc:before {
+  content: "\f1f2";
+}
+.ci-icon--cc-mc:before {
+  content: "\f1f1";
+}
+.ci-icon--paypal:before {
+  content: "\f1f4";
+}
+.ci-icon--cc-visa:before {
+  content: "\f1f0";
+}
+.ci-icon--check-circle:before {
+  content: "\f058";
+}
+.ci-icon--center:before {
+  content: "\e903";
+}
+.ci-icon--radio:before {
+  content: "\e836";
+}
+.ci-icon--cc:before {
+  content: "\f09d";
+}
+.ci-icon--radio-checked:before {
+  content: "\e837";
+}
+.ci-icon--download:before {
+  content: "\f019";
+}
+.ci-icon--exclamation-circle:before {
+  content: "\f06a";
+}
+.ci-icon--exclamation-triangle:before {
+  content: "\f071";
+}
+.ci-icon--external-link:before {
+  content: "\f08e";
+}
+.ci-icon--home:before {
+  content: "\e88a";
+}
+.ci-icon--id:before {
+  content: "\f2c2";
+}
+.ci-icon--lock:before {
+  content: "\f023";
+}
+.ci-icon--long-arrow-right:before {
+  content: "\f178";
+}
+.ci-icon--location:before {
+  content: "\f041";
+}
+.ci-icon--minus-circle:before {
+  content: "\f056";
+}
+.ci-icon--edit:before {
+  content: "\f040";
+}
+.ci-icon--plus-circle:before {
+  content: "\f055";
+}
+.ci-icon--print:before {
+  content: "\f02f";
+}
+.ci-icon--question-circle:before {
+  content: "\f059";
+}
+.ci-icon--search:before {
+  content: "\f002";
+}
+.ci-icon--select:before {
+  content: "\f0dc";
+}
+.ci-icon--spinner:before {
+  content: "\f110";
+}
+.ci-icon--star-half:before {
+  content: "\f123";
+}
+.ci-icon--star-empty:before {
+  content: "\f006";
+}
+.ci-icon--star-full:before {
+  content: "\f005";
+}
+.ci-icon--cancel-circle:before {
+  content: "\f057";
+}
+.ci-icon--cancel:before {
+  content: "\f00d";
+}
+.ci-icon--bank:before {
+  content: "\f19c";
+}

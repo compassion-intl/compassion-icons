@@ -1,10 +1,9 @@
 @font-face {
   font-family: 'ci-icons-2021';
-  src:  url('fonts/ci-icons-2021.eot?kayu7u');
-  src:  url('fonts/ci-icons-2021.eot?kayu7u#iefix') format('embedded-opentype'),
-    url('fonts/ci-icons-2021.ttf?kayu7u') format('truetype'),
-    url('fonts/ci-icons-2021.woff?kayu7u') format('woff'),
-    url('fonts/ci-icons-2021.svg?kayu7u#ci-icons-2021') format('svg');
+  src:
+    url('fonts/ci-icons-2021.ttf?hpbpg5') format('truetype'),
+    url('fonts/ci-icons-2021.woff?hpbpg5') format('woff'),
+    url('fonts/ci-icons-2021.svg?hpbpg5#ci-icons-2021') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,11 +24,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.ci-icon--tiktok:before {
-  content: "\e900";
+.ci-icon--exclamation-triangle:before {
+  content: "\f071";
+}
+.ci-icon--phone:before {
+  content: "\e90b";
+}
+.ci-icon--email:before {
+  content: "\e90c";
+}
+.ci-icon--lock:before {
+  content: "\f023";
 }
 .ci-icon--info-circle-solid:before {
   content: "\e977";
+}
+.ci-icon--info-circle:before {
+  content: "\e908";
+}
+.ci-icon--tiktok:before {
+  content: "\e900";
 }
 .ci-icon--comment:before {
   content: "\f075";
@@ -57,9 +71,6 @@
 }
 .ci-icon--youtube:before {
   content: "\f167";
-}
-.ci-icon--info-circle:before {
-  content: "\e908";
 }
 .ci-icon--birthday:before {
   content: "\f1fd";
@@ -148,9 +159,6 @@
 .ci-icon--exclamation-circle:before {
   content: "\f06a";
 }
-.ci-icon--exclamation-triangle:before {
-  content: "\f071";
-}
 .ci-icon--external-link:before {
   content: "\f08e";
 }
@@ -159,9 +167,6 @@
 }
 .ci-icon--id:before {
   content: "\f2c2";
-}
-.ci-icon--lock:before {
-  content: "\f023";
 }
 .ci-icon--long-arrow-right:before {
   content: "\f178";
